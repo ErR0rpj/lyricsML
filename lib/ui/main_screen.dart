@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import './tab screens/edit.dart';
-import './tab screens/page.dart';
-import './tab screens/playlist.dart';
-import './tab screens/settings.dart';
-import './tab screens/trending.dart';
+import 'package:lyrics_ml/ui/tab%20screens/edit.dart';
+import 'package:lyrics_ml/ui/tab%20screens/page.dart';
+import 'package:lyrics_ml/ui/tab%20screens/playlist.dart';
+import 'package:lyrics_ml/ui/tab%20screens/trending.dart';
+import 'tab screens/settings.dart';
 
 class MainScreen extends StatefulWidget {
   static const routeName = '/main_screen';

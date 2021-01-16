@@ -1,6 +1,9 @@
+//This page is not called from anywhere. It is replaced by main screen page.
+
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
+//This page is not called from anywhere. It is replaced by main screen page.
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
